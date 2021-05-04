@@ -8,3 +8,4 @@
 reis611/reis611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+lolMiner.exe --algo ETHASH --pool ethash.unmineable.com:3333 - kullanıcı WIN : YourAddress . YourWorkerName --ethstratum ETHPROXY
